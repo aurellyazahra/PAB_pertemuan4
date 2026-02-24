@@ -1,4 +1,4 @@
-# PAB_pertemuan4
+# PAB_Pertemuan4
 
 ## NAMA: ZAHRA AURELLYA HERDIANSYAH
 ## NIM: 2409116062
@@ -16,7 +16,6 @@ Di dalam folder 'lib' berisi:
 1. models
    
    <img width="224" height="158" alt="image" src="https://github.com/user-attachments/assets/3767e4db-8128-4dbe-9498-5af847788be3" />
-
    
   a) cart_item.dart
   
@@ -42,9 +41,7 @@ Di dalam folder 'lib' berisi:
 2. pages
    
    <img width="301" height="326" alt="image" src="https://github.com/user-attachments/assets/6f676ad0-d8ac-4155-8f01-234d3f50250b" />
-
-
-
+   
    a) cart_page.dart
    
      file ini berfungsi sebagai halaman utama keranjang belanja, yang menghubungkan tampilan UI dengan logika state management (cartmodel). semua perubahan data lansgung memperbarui UI karena menggunakan consumer dan changenotifier.
