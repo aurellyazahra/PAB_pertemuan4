@@ -6,6 +6,8 @@
 
 # PART 5: SHOPPING CARTS HANDS-ON
 
+## File code
+
 ### lib
 
 <img width="162" height="134" alt="image" src="https://github.com/user-attachments/assets/f9e2fd12-4aba-48cf-afc8-1b34269dd7f8" />
@@ -86,3 +88,23 @@ Di dalam folder 'lib' berisi:
 ### pubspec.yaml
 
 file ini merupakan konfigurasi uatama project Flutter, yang berisi informasi aplikasi, versi SDK, serta daftar depencency yang digunakan. file ini berfungsi sebagai pengatur dependency dan konfigurasi project, yang memastikan aplikasi dapat menggunakan Flutter dan Provider untuk menjalankan fitur state management.
+
+
+## Output yang di Hasilkan
+
+<img width="845" height="962" alt="image" src="https://github.com/user-attachments/assets/bad79289-6e36-4bbe-871c-2b4bd54d67fc" />
+
+Gambar ini merupakan beranda dari Shopping Cart terdapat beberapa fitur di dalamnya, seperti:
+
+1. *Search/Filter*, digunakan untuk mencari dan memudahkan pengguna dalam menemukan sebuah produk dengan mencarinya menggunakan nama.
+   <img width="830" height="83" alt="image" src="https://github.com/user-attachments/assets/8fda49db-16d9-4af5-b13c-31323cd22079" />
+
+2. *Categories*, digunakan untuk memudahkan pengguna dalam mencari barang, dengan adanya fitur ini pengguna bisa melihat ada kategori apa saja dalam aplikasi sehingga bisa membantu pengguna dalam melihat barang.
+   <img width="838" height="306" alt="image" src="https://github.com/user-attachments/assets/58080bde-05d9-43d4-adfa-579b75ddcae3" />
+
+3. *Shopping Cart*, digunakan untuk menambahkan barang ke dalam keranjang agar memudahkan pengguna untuk nantinya melihat kembali barang yang akan dibeli.
+   <img width="838" height="823" alt="image" src="https://github.com/user-attachments/assets/34291276-454c-4574-9012-6e13e970bfa7" />
+
+
+4. *Checkout Page*, digunakan saat pengguna akan membeli barang yang sudah dipilih sebelumnya.
+   <img width="829" height="783" alt="image" src="https://github.com/user-attachments/assets/86bc08d9-1a79-42f2-849d-c52f2682f4ee" />
