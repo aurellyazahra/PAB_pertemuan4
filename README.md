@@ -42,7 +42,7 @@ Di dalam folder 'lib' berisi:
    
    <img width="301" height="326" alt="image" src="https://github.com/user-attachments/assets/6f676ad0-d8ac-4155-8f01-234d3f50250b" />
    
-   a) cart_page.dart
+ a) cart_page.dart
    
      file ini berfungsi sebagai halaman utama keranjang belanja, yang menghubungkan tampilan UI dengan logika state management (cartmodel). semua perubahan data lansgung memperbarui UI karena menggunakan consumer dan changenotifier.
 
