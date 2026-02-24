@@ -41,7 +41,8 @@ Di dalam folder 'lib' berisi:
 
 2. pages
    
-   <img width="295" height="293" alt="image" src="https://github.com/user-attachments/assets/0c5807b6-dc41-438a-bfeb-1c05db7ebad4" />
+   <img width="301" height="326" alt="image" src="https://github.com/user-attachments/assets/6f676ad0-d8ac-4155-8f01-234d3f50250b" />
+
 
 
    a) cart_page.dart
@@ -72,9 +73,13 @@ Di dalam folder 'lib' berisi:
    
       file ini menunjukkan contoh komunikasi antar halaman di Flutter, di mana data dan fungsi dikirim berantai dari satu halaman lain tanpa menggunakan state management global.
 
-   f) settings_page.dart
+   h) settings_page.dart
    
       file ini menunjukkan bagaimana state bisa dikontrol dari halaman yang lebih dalam menggunakan callback, sekaligus memperlihatkan keterbatasan pendekatan manual ketika struktur halaman semakinn kompleks.
+
+   i) checkout_page.dart
+
+      file ini merupakan halaman final sebelum transaksi selesai. disini user mengisi data dan menekan tombol konfirmasi untuk menyelesaikan pembelian.
 
 
 3. main.dart
