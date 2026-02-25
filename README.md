@@ -110,12 +110,15 @@ Gambar ini merupakan beranda dari Shopping Cart terdapat beberapa fitur di dalam
    <img width="829" height="783" alt="image" src="https://github.com/user-attachments/assets/86bc08d9-1a79-42f2-849d-c52f2682f4ee" />
 
 5. *Add to cart from product list*, menambahkan produk ke dalam keranjang
+   
    <img width="416" height="562" alt="image" src="https://github.com/user-attachments/assets/d53c82de-2919-48b9-95c6-52e1a5ef1774" />
 
 6. *Show cart items dengan quantity*, menampilkan jumlah produk di dalam keranjang
+   
    <img width="356" height="452" alt="image" src="https://github.com/user-attachments/assets/5ac913d5-e7ea-4fec-aee5-1c1bb372936c" />
 
 7. *Update quantity (+/-)*, dapat mengubah jumlah dari produk yang dimasukkan ke dalam keranjang
+    
    <img width="331" height="145" alt="image" src="https://github.com/user-attachments/assets/6306e3c4-39a0-4413-8e82-af7699010e26" />
 
 8. *Remove items from cart*, dapat menghapus produk dalam keranjang, bisa keseluruhan produk maupun salah satu produk saja
