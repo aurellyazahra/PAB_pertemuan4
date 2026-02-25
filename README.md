@@ -106,6 +106,23 @@ Gambar ini merupakan beranda dari Shopping Cart terdapat beberapa fitur di dalam
 3. *Shopping Cart*, digunakan untuk menambahkan barang ke dalam keranjang agar memudahkan pengguna untuk nantinya melihat kembali barang yang akan dibeli.
    <img width="838" height="823" alt="image" src="https://github.com/user-attachments/assets/34291276-454c-4574-9012-6e13e970bfa7" />
 
-
 4. *Checkout Page*, digunakan saat pengguna akan membeli barang yang sudah dipilih sebelumnya.
    <img width="829" height="783" alt="image" src="https://github.com/user-attachments/assets/86bc08d9-1a79-42f2-849d-c52f2682f4ee" />
+
+5. *Add to cart from product list*, menambahkan produk ke dalam keranjang
+   <img width="416" height="562" alt="image" src="https://github.com/user-attachments/assets/d53c82de-2919-48b9-95c6-52e1a5ef1774" />
+
+6. *Show cart items dengan quantity*, menampilkan jumlah produk di dalam keranjang
+   <img width="356" height="452" alt="image" src="https://github.com/user-attachments/assets/5ac913d5-e7ea-4fec-aee5-1c1bb372936c" />
+
+7. *Update quantity (+/-)*, dapat mengubah jumlah dari produk yang dimasukkan ke dalam keranjang
+   <img width="331" height="145" alt="image" src="https://github.com/user-attachments/assets/6306e3c4-39a0-4413-8e82-af7699010e26" />
+
+8. *Remove items from cart*, dapat menghapus produk dalam keranjang, bisa keseluruhan produk maupun salah satu produk saja
+   <img width="431" height="274" alt="image" src="https://github.com/user-attachments/assets/157e391f-2a01-4844-8ce0-ab29c1410394" />
+
+   <img width="274" height="44" alt="image" src="https://github.com/user-attachments/assets/7ba75179-c1e2-489f-b840-b0f3a6605cd3" />
+
+9. *Display total price correctly*, menampilkan jumlah harga dengan benar
+    <img width="843" height="736" alt="image" src="https://github.com/user-attachments/assets/8b3f5e3b-27d3-4774-aaa3-dc68328a7338" />
+
